@@ -34,3 +34,22 @@ Jimi文件传输工具，Android端
 
 
 ## 录屏效果
+
+
+https://github.com/Richard0403/JimiFileTransferApp/assets/14147304/25ac3b09-ccb5-404c-a414-5beb3fea7a03
+
+
+## 服务端代码仓库
+
+[项目入口 https://github.com/Richard0403/JimiFileTransferServer](https://github.com/Richard0403/JimiFileTransferServer)
+
+## 开发环境
+| 名称             | 版本                  |
+|----------------|---------------------|
+| Android Studio         | Electric Eel 2022.1.1 Patch 2 | 
+| Java | java11             |
+| gradle        | gradle-7.2              |
+
+
+## 声明
+<h3>本项目只做个人学习研究之用，不得用于商业用途！更不可用于违反法律道德商业等不良用途，使用者责任自负！</h3>
