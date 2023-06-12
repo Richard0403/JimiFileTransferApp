@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Easy_Transfer-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Easy_Transfer-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Easy_Transfer-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Easy_Transfer-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Easy_Transfer-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Easy_Transfer-master.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Easy_Transfer-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Easy_Transfer-master.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Easy_Transfer-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Easy_Transfer-master.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/httpServer/Easy_Transfer-master.httpServer.iml" filepath="$PROJECT_DIR$/.idea/modules/httpServer/Easy_Transfer-master.httpServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/httpServer/Easy_Transfer-master.httpServer.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/httpServer/Easy_Transfer-master.httpServer.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/httpServer/Easy_Transfer-master.httpServer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/httpServer/Easy_Transfer-master.httpServer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/httpServer/Easy_Transfer-master.httpServer.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/httpServer/Easy_Transfer-master.httpServer.unitTest.iml" />
+    </modules>
+  </component>
+</project>
